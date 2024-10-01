@@ -29,5 +29,6 @@ Se estás interessado em contribuir para o desenvolvimento da RentSail Mozambiqu
 Este projeto está licenciado sob a Licença MIT - consulta o ficheiro [LICENSE](LICENSE) para mais detalhes.
 
 ## Contacto
-Para mais informações ou questões, por favor entra em contacto connosco através de [email@example.com](mailto:email@example.com).
+Para mais informações ou questões, por favor entra em contacto connosco através de [email@example.com](mailto:abdullcadre@gmail.com).
+
 
